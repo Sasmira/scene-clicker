@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Foundry-v9-informational)
-![GitHub All Releases](https://img.shields.io/github/downloads/jegasus/scene-clicker/total?label=Downloads+total)  
-![Latest Release Download Count](https://img.shields.io/github/downloads/jegasus/scene-clicker/latest/module.zip)
+![](https://img.shields.io/badge/Foundry-v12-informational)
+![GitHub All Releases](https://img.shields.io/github/downloads/sasmira/scene-clicker/total?label=Downloads+total)  
+![Latest Release Download Count](https://img.shields.io/github/downloads/sasmira/scene-clicker/latest/module.zip)
 ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fscene-clicker&colorB=4aa94a)
 
 # Scene Clicker
