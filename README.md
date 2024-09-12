@@ -24,9 +24,11 @@ Activating both modules in your world will override the left-click behavior on S
 
 # Changelog
 
+## 0.0.12 - Released on 2024-09-12
+Update the Scene Clicker module for Foundry V12.
+
 ## 0.0.11 - Released on 2022-01-09
 Again, enormous thanks to [Alessio Calì](https://github.com/alessiocali) for making the required changes to update the Scene Clicker module for Foundry V9.
-
 
 ## 0.0.10 - Released on 2021-08-01
 Enormous thanks to [Alessio Calì](https://github.com/alessiocali) for making the required changes to update the Scene Clicker module for Foundry 0.8.x.
